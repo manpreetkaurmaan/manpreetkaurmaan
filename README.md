@@ -25,4 +25,5 @@ Payments: Stripe, PayPal, Razorpay, Braintree
 Tools: GitHub, GitLab, Bitbucket
 
 🎯 Focus
+===================================
 = Clean architecture, scalable backend systems, smooth UI/UX, and production-ready applications that perform flawlessly across devices.
