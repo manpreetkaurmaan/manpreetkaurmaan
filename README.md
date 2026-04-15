@@ -2,6 +2,7 @@
 <h3 align="center"> Full Stack Web & Mobile App Developer | With 10+ years of experience </h3>
 
 👩‍💻 About Me
+====================================
 
 I specialize in Hybrid Application Development on Flutter, React Native, Ionic, and backend development using Node.js, Express.js, CI, Laravel, PHP, and Python. I design and develop AI-powered mobile apps, SaaS platforms, real-time video streaming systems, and on-demand service applications with robust and scalable architectures.
 
@@ -17,18 +18,20 @@ I specialize in Hybrid Application Development on Flutter, React Native, Ionic, 
 
 🛠 Tech Stack
 ====================================
-Mobile: Flutter, React Native, iOS, Android
-Backend: Node.js, NestJS, Laravel, Express.js, Django, CodeIgniter
-Frontend: React.js, Next.js, HTML5, CSS3, JavaScript
-Database: MySQL, MongoDB, SQLite, DynamoDB, PostgreSQL
-Cloud & APIs: AWS, Firebase, REST APIs, WebSockets
-Payments: Stripe, PayPal, Razorpay, Braintree
-Tools: GitHub, GitLab, Bitbucket
-
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,react,nodejs,python,Figma,AI,OpenAI, Wordpress,Shopify" />
+  <img src="https://skillicons.dev/icons?i=figma,js,react,vue,nodejs,python,flutter,php,mongodb,aws,firebase,wordpress,bitbucket" />
 </p>
 
-🎯 Focus
-===================================
-= Clean architecture, scalable backend systems, smooth UI/UX, and production-ready applications that perform flawlessly across devices.
+📊 GitHub Insights: 
+=========================================
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=manpreetkaurmaan&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=manpreetkaurmaan&theme=tokyonight" />
+</p>
+
+🧩 What Makes Me Different
+=========================================
+- 🏗 Strong focus on scalable architecture
+- 🎯 Business-first development approach
+- ⚡ Fast execution without compromising quality
+- 🤝 Experience working with global clients
