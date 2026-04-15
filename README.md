@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Manpreet Kaur </h1>
 <h3 align="center"> Full Stack Web & Mobile App Developer | With 10+ years of experience </h3>
 
+👩‍💻 About Me
+
 I specialize in Hybrid Application Development on Flutter, React Native, Ionic, and backend development using Node.js, Express.js, CI, Laravel, PHP, and Python. I design and develop AI-powered mobile apps, SaaS platforms, real-time video streaming systems, and on-demand service applications with robust and scalable architectures.
 
 🚀 What I Build
@@ -22,6 +24,10 @@ Database: MySQL, MongoDB, SQLite, DynamoDB, PostgreSQL
 Cloud & APIs: AWS, Firebase, REST APIs, WebSockets
 Payments: Stripe, PayPal, Razorpay, Braintree
 Tools: GitHub, GitLab, Bitbucket
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,react,nodejs,python,Figma,AI,OpenAI, Wordpress,Shopify" />
+</p>
 
 🎯 Focus
 ===================================
