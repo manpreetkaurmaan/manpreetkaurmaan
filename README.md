@@ -1,6 +1,5 @@
-👋 Hi, I’m Manpreet Kaur
-
-Full Stack Web & Mobile App Developer with 8+ years of experience building scalable, high-performance applications for startups and enterprises.
+<h1 align="center">Hi 👋, I'm Manpreet Kaur </h1>
+<h3 align="center"> Full Stack Web & Mobile App Developer | With 10+ years of experience </h3>
 
 I specialize in Hybrid Application Development on Flutter, React Native, Ionic, and backend development using Node.js, Express.js, CI, Laravel, PHP, and Python. I design and develop AI-powered mobile apps, SaaS platforms, real-time video streaming systems, and on-demand service applications with robust and scalable architectures.
 
