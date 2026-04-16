@@ -1,17 +1,19 @@
 <h1 align="center">Hi 👋, I'm Manpreet Kaur </h1>
-<h3 align="center"> Full Stack Web & Mobile App Developer | With 10+ years of experience </h3>
+<h3 align="center"> Full Stack | Mobile App Developer | MERN STACK| 
 
-👩‍💻 About Me
+  👩‍💻 About Me
 ====================================
 
-I specialize in Hybrid Application Development on Flutter, React Native, Ionic, and backend development using Node.js, Express.js, CI, Laravel, PHP, and Python. I design and develop AI-powered mobile apps, SaaS platforms, real-time video streaming systems, and on-demand service applications with robust and scalable architectures.
+I am a full-stack developer with over 10 years of experience managing digital transformation projects. I specialize in website development, mobile apps, and AI-powered solutions to help businesses grow their digital footprint. 
+
+I have got a opportunity to work with a lot of startups, and they hire me to design, develop, and launch high-performance mobile applications that work flawlessly across devices. I design and develop AI-powered mobile apps, SaaS platforms, real-time systems, and on-demand service applications with robust and scalable architectures.
 
 🚀 What I Build
 ====================================
 - SaaS products & MVPs
-- E-commerce & marketplace apps
-- On-demand service apps (Taxi, Food, Delivery)
-- AI-powered mobile applications
+- E-commerce & marketplace platforms
+- On-demand service Apps (Taxi, Food, Delivery)
+- AI-powered applications
 - Real-time chat & video streaming platforms
 - E-learning & social networking apps
 - AR/VR & IoT-based mobile solutions
