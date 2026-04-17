@@ -21,7 +21,7 @@ I have got a opportunity to work with a lot of startups, and they hire me to des
 🛠 Tech Stack
 ====================================
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=figma,js,react,vue,nodejs,python,flutter,php,mongodb,aws,firebase,wordpress,bitbucket" />
+  <img src="https://skillicons.dev/icons?i=figma,js,react,vue,nodejs,python,flutter,php,mongodb,supabase,aws,firebase,wordpress,bitbucket" />
 </p>
 
 📊 GitHub Insights: 
