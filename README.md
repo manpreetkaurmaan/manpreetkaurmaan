@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Manpreet Kaur </h1>
-<h3 align="center"> Full Stack | Mobile App Developer | MERN STACK| 
+<h3 align="center"> Senior Software Engineer | Web & Mobile App | MERN STACK | AI Solution
 
   👩‍💻 About Me
 ====================================
 
-I am a full-stack developer with over 10 years of experience managing digital transformation projects. I specialize in website development, mobile apps, and AI-powered solutions to help businesses grow their digital footprint. 
+I am a **Senior Software Engineer** specializing in **full-stack web development**, **mobile apps**, **AI-integration**, and **AI Automations** that help businesses grow their digital footprint. 
 
-I have got a opportunity to work with a lot of startups, and they hire me to design, develop, and launch high-performance mobile applications that work flawlessly across devices. I design and develop AI-powered mobile apps, SaaS platforms, real-time systems, and on-demand service applications with robust and scalable architectures.
+I have got a opportunity to work with a lot of startups and large businesses to **design**, **develop**, and **launch high-performance web** and **mobile-based applications** that work flawlessly. I designed and developed **AI-powered mobile apps**, **SAAS platforms**, **CRMs**, **Real-time Systems**, and **On-demand Service Applications** with robust and scalable architectures.
 
 🚀 What I Build
 ====================================
